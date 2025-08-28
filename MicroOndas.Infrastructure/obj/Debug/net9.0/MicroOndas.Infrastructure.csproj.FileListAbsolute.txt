@@ -1,0 +1,11 @@
+C:\MicroOndas\MicroOndas.Infrastructure\bin\Debug\net9.0\MicroOndas.Infrastructure.deps.json
+C:\MicroOndas\MicroOndas.Infrastructure\bin\Debug\net9.0\MicroOndas.Infrastructure.dll
+C:\MicroOndas\MicroOndas.Infrastructure\bin\Debug\net9.0\MicroOndas.Infrastructure.pdb
+C:\MicroOndas\MicroOndas.Infrastructure\obj\Debug\net9.0\MicroOndas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MicroOndas\MicroOndas.Infrastructure\obj\Debug\net9.0\MicroOndas.Infrastructure.AssemblyInfoInputs.cache
+C:\MicroOndas\MicroOndas.Infrastructure\obj\Debug\net9.0\MicroOndas.Infrastructure.AssemblyInfo.cs
+C:\MicroOndas\MicroOndas.Infrastructure\obj\Debug\net9.0\MicroOndas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\MicroOndas\MicroOndas.Infrastructure\obj\Debug\net9.0\MicroOndas.Infrastructure.dll
+C:\MicroOndas\MicroOndas.Infrastructure\obj\Debug\net9.0\refint\MicroOndas.Infrastructure.dll
+C:\MicroOndas\MicroOndas.Infrastructure\obj\Debug\net9.0\MicroOndas.Infrastructure.pdb
+C:\MicroOndas\MicroOndas.Infrastructure\obj\Debug\net9.0\ref\MicroOndas.Infrastructure.dll

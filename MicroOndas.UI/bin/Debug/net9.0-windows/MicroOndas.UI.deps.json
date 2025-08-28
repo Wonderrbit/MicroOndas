@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MicroOndas.UI/1.0.0": {
+        "dependencies": {
+          "MicroOndas.Business": "1.0.0",
+          "MicroOndas.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "MicroOndas.UI.dll": {}
+        }
+      },
+      "MicroOndas.Business/1.0.0": {
+        "runtime": {
+          "MicroOndas.Business.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MicroOndas.Infrastructure/1.0.0": {
+        "runtime": {
+          "MicroOndas.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicroOndas.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroOndas.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroOndas.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

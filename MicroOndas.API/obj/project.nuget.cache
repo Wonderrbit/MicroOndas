@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivbjT29Huok=",
+  "success": true,
+  "projectFilePath": "C:\\MicroOndas\\MicroOndas.API\\MicroOndas.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luizi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\luizi\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

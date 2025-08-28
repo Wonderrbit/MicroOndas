@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0-windows7.0": {
+      "MicroOndas.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MicroOndas.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroOndas.Business.dll": {}
+        }
+      },
+      "MicroOndas.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MicroOndas.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroOndas.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicroOndas.Business/1.0.0": {
+      "type": "project",
+      "path": "../MicroOndas.Business/MicroOndas.Business.csproj",
+      "msbuildProject": "../MicroOndas.Business/MicroOndas.Business.csproj"
+    },
+    "MicroOndas.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../MicroOndas.Infrastructure/MicroOndas.Infrastructure.csproj",
+      "msbuildProject": "../MicroOndas.Infrastructure/MicroOndas.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0-windows7.0": [
+      "MicroOndas.Business >= 1.0.0",
+      "MicroOndas.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\luizi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\MicroOndas\\MicroOndas.UI\\MicroOndas.UI.csproj",
+      "projectName": "MicroOndas.UI",
+      "projectPath": "C:\\MicroOndas\\MicroOndas.UI\\MicroOndas.UI.csproj",
+      "packagesPath": "C:\\Users\\luizi\\.nuget\\packages\\",
+      "outputPath": "C:\\MicroOndas\\MicroOndas.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\luizi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "projectReferences": {
+            "C:\\MicroOndas\\MicroOndas.Business\\MicroOndas.Business.csproj": {
+              "projectPath": "C:\\MicroOndas\\MicroOndas.Business\\MicroOndas.Business.csproj"
+            },
+            "C:\\MicroOndas\\MicroOndas.Infrastructure\\MicroOndas.Infrastructure.csproj": {
+              "projectPath": "C:\\MicroOndas\\MicroOndas.Infrastructure\\MicroOndas.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0-windows7.0": {
+        "targetAlias": "net9.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

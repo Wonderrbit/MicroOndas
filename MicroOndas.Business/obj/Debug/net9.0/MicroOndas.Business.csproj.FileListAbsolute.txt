@@ -1,0 +1,11 @@
+C:\MicroOndas\MicroOndas.Business\bin\Debug\net9.0\MicroOndas.Business.deps.json
+C:\MicroOndas\MicroOndas.Business\bin\Debug\net9.0\MicroOndas.Business.dll
+C:\MicroOndas\MicroOndas.Business\bin\Debug\net9.0\MicroOndas.Business.pdb
+C:\MicroOndas\MicroOndas.Business\obj\Debug\net9.0\MicroOndas.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\MicroOndas\MicroOndas.Business\obj\Debug\net9.0\MicroOndas.Business.AssemblyInfoInputs.cache
+C:\MicroOndas\MicroOndas.Business\obj\Debug\net9.0\MicroOndas.Business.AssemblyInfo.cs
+C:\MicroOndas\MicroOndas.Business\obj\Debug\net9.0\MicroOndas.Business.csproj.CoreCompileInputs.cache
+C:\MicroOndas\MicroOndas.Business\obj\Debug\net9.0\MicroOndas.Business.dll
+C:\MicroOndas\MicroOndas.Business\obj\Debug\net9.0\refint\MicroOndas.Business.dll
+C:\MicroOndas\MicroOndas.Business\obj\Debug\net9.0\MicroOndas.Business.pdb
+C:\MicroOndas\MicroOndas.Business\obj\Debug\net9.0\ref\MicroOndas.Business.dll
